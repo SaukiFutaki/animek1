@@ -1,6 +1,6 @@
 "use client";
-import React, { useEffect, useState } from "react";
-import axios from "axios";
+import React, { useState } from "react";
+
 import Head from "../header";
 import Pagination from "@/components/utils/Pagination";
 import AnimeList from "@/components/animelist";
